@@ -1,0 +1,14 @@
+
+path: '/content/gdrive/My Drive/ComputerVisionDeveloper/TrainYolov8CustomDataset/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+nc: 3
+names: ['Cat', 'Dog', 'Man']
+
+roboflow:
+  workspace: mohammad-anas-uj5rw
+  project: cat-dog-man
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mohammad-anas-uj5rw/cat-dog-man/dataset/1
