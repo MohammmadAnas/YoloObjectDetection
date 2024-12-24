@@ -23,7 +23,7 @@ To run the model locally, follow these instructions:
 ## 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/MohammmadAnas/YoloObjectDetection.git
 ```
 
 Run the Model:
